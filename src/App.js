@@ -5,8 +5,7 @@ import ReactDOM from 'react-dom';
 const App = () => {
   return (
     <div>
-      <h1>Witaj w mojej aplikacji React!</h1>
-      <p>paragraf</p>
+      <h1 className='title'>Witaj w mojej aplikacji React!</h1>
     </div>
   );
 };
